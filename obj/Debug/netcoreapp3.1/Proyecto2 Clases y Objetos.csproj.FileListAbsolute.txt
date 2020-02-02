@@ -1,0 +1,11 @@
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.exe
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.deps.json
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.runtimeconfig.json
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.runtimeconfig.dev.json
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.dll
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\bin\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.pdb
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\obj\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.csprojAssemblyReference.cache
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\obj\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.AssemblyInfoInputs.cache
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\obj\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.AssemblyInfo.cs
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\obj\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.dll
+D:\Proyectos Programación\Proyecto2 Clases y Objetos\obj\Debug\netcoreapp3.1\Proyecto2 Clases y Objetos.pdb
