@@ -31,6 +31,8 @@ namespace Proyecto2_Clases_y_Objetos
             }
         }
 
+        //-------------------------------------------------------------------------------------------------------------------------------------
+
         //Propiedad estática
         public static string Banco { get; set; }    //static sirve para convertir la propiedad en estatica
 
@@ -53,6 +55,8 @@ namespace Proyecto2_Clases_y_Objetos
         //Constructor Vacío (default)
         public CuentaBancaria() { }
         #endregion
+
+        //-------------------------------------------------------------------------------------------------------------------------------------
 
         #region Métodos de instancia
         //Métodos de instancia

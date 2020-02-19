@@ -20,7 +20,9 @@ namespace Proyecto2_Clases_y_Objetos
 
             int area = rec.CalcularArea();
 
-            Console.WriteLine("El area del Rectangulo con Base {0} y Altura {1} es = {2}", rec.Base, rec.Altura, area);          
+            Console.WriteLine("El area del Rectangulo con Base {0} y Altura {1} es = {2}", rec.Base, rec.Altura, area);
+
+            //-------------------------------------------------------------------------------------------------------------------------------------
 
             //Otra forma de crear un objeto
             Rectangulo rec2 = new Rectangulo { Base = 3, Altura = 8 };
@@ -30,6 +32,8 @@ namespace Proyecto2_Clases_y_Objetos
             Console.WriteLine("El area del Rectangulo con Base {0} y Altura {1} es = {2}", rec2.Base, rec2.Altura, area2);
 
             Console.Write("\r\n");
+
+            //-------------------------------------------------------------------------------------------------------------------------------------
 
             //CONSTRUCTORES
 
@@ -61,6 +65,8 @@ namespace Proyecto2_Clases_y_Objetos
 
             Console.Write("\r\n");
 
+            //-------------------------------------------------------------------------------------------------------------------------------------
+
             //Metodos de Instancia
 
             Console.WriteLine("Prueba de Metodos de instancia");
@@ -83,7 +89,10 @@ namespace Proyecto2_Clases_y_Objetos
 
             Console.Write("\r\n");
 
+            //-------------------------------------------------------------------------------------------------------------------------------------
+
             //Miembros estáticos
+
             //Para acceder a los miembros estáticos se usa solo el nombre de la clase
 
             Console.WriteLine("Prueba de Métodos estaticos");
